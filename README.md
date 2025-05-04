@@ -50,6 +50,7 @@ This project uses a deep learning model (ResNet50) to automatically classify MRI
 - Extend to multiclass tasks (e.g., tumor type or stage)  
 - Experiment with other CNNs (DenseNet, EfficientNet)  
 - Train on larger, more diverse MRI datasets
+- Create a Medical image classification using a custom trained model. 
 
 ## Academic Context
 
